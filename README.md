@@ -9,7 +9,7 @@ Yapılandırmada ayarlayabileceğiniz kullanılabilir doktor isimleri listesi va
 Oksijen şişesini açabilir ve böylece bireysel haplar alabilirsiniz. Bu hapları belirli sağlık miktarlarını, zırhı uygulamak veya hiçbir şey yapmamak üzere yapılandırabilirsiniz. Bu fikrin arkasındaki düşünce, ardından uyuşturucu satış sistemine entegre edilecek ek bir uyuşturucu işlemi olarak ve/veya oyunculara kullanışlı sağlık veya zırh (veya her ikisini birden) eşyaları sağlama yeni bir yol sunmak.
 
 ## Destek İçin
-- [Click here to join our Discord](https://discord.com/invite/46fa6GF9uF)
+- [Discord'a katılmak için tıkla](https://discord.com/invite/46fa6GF9uF)
 
 
 ## Özellikler
